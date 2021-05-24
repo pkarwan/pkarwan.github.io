@@ -27,7 +27,7 @@ People have tried to define data science for over a decade now, and the best way
 <img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG" alt="data_science"
 	width="150" height="100" />
 
-	 
+![Alt text](https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG "data_science")	 
 
 
 
