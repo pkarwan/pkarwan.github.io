@@ -1,5 +1,7 @@
 ---
 layout: post
+title : data scientist
+author : Pramodini Karwande
 ---
 
 
