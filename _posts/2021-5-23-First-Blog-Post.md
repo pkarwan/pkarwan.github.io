@@ -24,8 +24,6 @@ Major Duties : As per my exploration in Data Science field, I believe major duti
 Knowledge Areas : Data Scientist should gain critical skills in three departments: analytics, programming, and domain knowledge. 
 People have tried to define data science for over a decade now, and the best way to answer the question is via a Venn diagram. Created by Hugh Conway in 2010, this Venn diagram consists of three circles: math and statistics, subject expertise (knowledge about the domain to abstract and calculate), and hacking skills. Essentially if you can do all three, you are already highly knowledgeable in the field of data science.
 
-<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG" alt="data_science"
-	width="150" height="100" />
 
 ![Alt text](https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG "data_science")	 
 
