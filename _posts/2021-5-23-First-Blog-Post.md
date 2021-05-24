@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Data Scientist And/Or Statistician
 author: Pramodini Karwande
 ---
 
