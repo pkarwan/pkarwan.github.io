@@ -6,6 +6,7 @@ author: Pramodini Karwande
 
 
 
+
 What do you think being a data scientist is about?
 
 Data scientists are analytical experts who utilize their skills in both technology and statistical methods (behind the scene) to find trends and manage data. Data scientists closely follow the “data science process” that is more approachable; data ingest, data transformation, exploratory data analysis, model selection, model evaluation, and data storytelling. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations. Data Scientist helps to understand the business based on data analysis and this helps companies to gain more profit , cost cutting/investments where ever necessary and run company/business more efficiently. A data scientist’s work typically involves making sense of messy, unstructured data, from multiple types of sources. They understand data from a business point of view and can provide accurate predictions and insights that can be used to power critical business decisions.
@@ -23,7 +24,12 @@ Major Duties : As per my exploration in Data Science field, I believe major duti
 Knowledge Areas : Data Scientist should gain critical skills in three departments: analytics, programming, and domain knowledge. 
 People have tried to define data science for over a decade now, and the best way to answer the question is via a Venn diagram. Created by Hugh Conway in 2010, this Venn diagram consists of three circles: math and statistics, subject expertise (knowledge about the domain to abstract and calculate), and hacking skills. Essentially if you can do all three, you are already highly knowledgeable in the field of data science.
 
-https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG	 
+<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG" alt="data_science"
+	width="150" height="100" />
+
+	 
+
+
 
 As per Drew Harry, the director of data science at Twitch, data science team brings together three things: statistics, programming, and product knowledge. Completely agree with this. 
 Without an understanding of how people are using the product, and what the company goals are, the data analysis can get lost in translation. So a data scientist’s job to have all the things in his/her head all at once, so when someone comes to the department with a problem that isn’t very well defined, they know what data they have at hand to answer the question.
