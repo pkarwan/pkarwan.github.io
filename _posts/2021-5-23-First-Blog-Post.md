@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Data Science and Statistics
 author : Pramodini Karwande
 ---
 
