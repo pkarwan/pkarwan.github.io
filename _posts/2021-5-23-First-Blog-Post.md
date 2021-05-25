@@ -8,7 +8,7 @@ author : Pramodini Karwande
 
 
 
-What do you think being a data scientist is about?<br />
+What do you think being a data scientist is about? <br />
 
 Data scientists are analytical experts who utilize their skills in both technology and statistical methods (behind the scene) to find trends and manage data. Data scientists focus on data ingest, data transformation, exploratory data analysis, model selection, model evaluation, and data storytelling. Analyze the data and provide right model is the main task for Data Scientist. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations. Data Scientist helps to understand the business based on data analysis and this helps companies to gain more profit , cost cutting/investments where ever necessary and run company/business more efficiently. A data scientist’s work typically involves making sense of messy, unstructured data, from multiple types of sources. Data Scientist helps in making critical business decisions based on right predictions.
 Since data scientists focus on analyzing data, providing business insights, and prototyping models, this role is much broader one. 
@@ -29,7 +29,7 @@ Venn diagram created by Hugh Conway in 2010 explains very well these three circl
 To make correct, business point of view efficient decisions, its very important to have product knowledge. Data scientist should be able to convert business problem, concerns into statistical manner. Data scientist should be able to understand what’s productive data and can be used to make critical and also efficient decisions. Lastly, They should have Data scientist degree which proves their knowledge and ability to make such decisions. 
 
 
-What differences/similarities do you see between data scientists and statisticians?<br />
+What differences/similarities do you see between data scientists and statisticians? <br />
 
 Data Science and Statistics are both seperate fields. Statisticians are good with the modeling of data using simple model whereas data scientists are good with applied statistics. 
 Even though data scientists and statisticians collects information for the same purpose, their approach to data is very different. Data scientists works on large-scale data ingest, data cleansing and transformation where as statisticians works on smaller scale methods of data collection. Predictive accuracy is the one which Data Scientists should worry about or look for. They analyzes many machine learning models and see which provides more accuracy and provides the details to machine learning engineer to apply it. Whereas Statisticians verifies the  data consistency with the assumptions of the model. They verifies all the model assumptions and makes sure that no assumptions are violated.
@@ -40,7 +40,7 @@ Academic background differs for the data scientist and statisticians.
 When Statisticians learn skills to implement algorithms , machine learning methods, provide predictions and data scientists will be good on statistical concepts,  the line or difference between data scientists and statisticians will be very less.
 
 
-How do you view yourself in relation to these two areas?<br />
+How do you view yourself in relation to these two areas? <br />
 
  “A data scientist is someone who is better at statistics than any software engineer and better at software engineering than any statistician.”
 As a statistics degree, I’ll be aware of statistics theories/concepts. Data Scientists also need to have basic knowledge of statistics(not same as statistician though). So I believe I’ll be in relation of both the fields, more on statistics and less on data science. 
