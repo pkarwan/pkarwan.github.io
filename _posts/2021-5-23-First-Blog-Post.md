@@ -14,7 +14,7 @@ What do you think being a data scientist is about? <br />
 Data scientists are analytical experts who utilize their skills in both technology and statistical methods (behind the scene) to find trends and manage data. Data scientists focus on data ingest, data transformation, exploratory data analysis, model selection, model evaluation, and data storytelling. Analyze the data and provide right model is the main task for Data Scientist. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations. Data Scientist helps to understand the business based on data analysis and this helps companies to gain more profit , cost cutting/investments where ever necessary and run company/business more efficiently. A data scientist’s work typically involves making sense of messy, unstructured data, from multiple types of sources. Data Scientist helps in making critical business decisions based on right predictions.
 Since data scientists focus on analyzing data, providing business insights, and prototyping models, this role is much broader one. 
 
-This way I think Data Scientist is a very important and crucial role having a lot of responsibility to get/maintain organization on right and successful path.
+This way I think Data Scientist is a very important and crucial role having a lot of responsibility to get/maintain organization on right and successful path. <br /> <br />
 
 
 
@@ -27,7 +27,7 @@ Venn diagram created by Hugh Conway in 2010 explains very well these three circl
 
 <img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG" width="300" height="300"/>	 
 
-To make correct, business point of view efficient decisions, its very important to have product knowledge. Data scientist should be able to convert business problem, concerns into statistical manner. Data scientist should be able to understand what’s productive data and can be used to make critical and also efficient decisions. Lastly, They should have Data scientist degree which proves their knowledge and ability to make such decisions. 
+To make correct, business point of view efficient decisions, its very important to have product knowledge. Data scientist should be able to convert business problem, concerns into statistical manner. Data scientist should be able to understand what’s productive data and can be used to make critical and also efficient decisions. Lastly, They should have Data scientist degree which proves their knowledge and ability to make such decisions. <br /> <br />
 
 
 What differences/similarities do you see between data scientists and statisticians? <br />
@@ -38,7 +38,7 @@ Statisticians have knowledge in depth for concepts like point estimates, margins
 Sometimes data scientist need to get help from statisticians with certain data sets. Similarly, statistician needs help from data scientist for the data set with multiple billion rows and thousands of predictor variables to get proper outcome from the data. 
 So both fields sometimes depends on each other.
 Academic background differs for the data scientist and statisticians. 
-When Statisticians learn skills to implement algorithms , machine learning methods, provide predictions and data scientists will be good on statistical concepts,  the line or difference between data scientists and statisticians will be very less.
+When Statisticians learn skills to implement algorithms , machine learning methods, provide predictions and data scientists will be good on statistical concepts,  the line or difference between data scientists and statisticians will be very less. <br /> <br />
 
 
 How do you view yourself in relation to these two areas? <br />
