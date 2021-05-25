@@ -1,14 +1,11 @@
 ---
 layout: post
-title : data scientist
 author : Pramodini Karwande
 ---
 
 
 
 
-
-Data Scientist And/Or Statistician
 
 
 What do you think being a data scientist is about?
@@ -26,7 +23,7 @@ Major Duties : As per my exploration in Data Science field, I believe major duti
 Knowledge Areas : I agree from blog “Data Science vs. Data Analytics vs. Machine Learning: Expert Talk” that Data Scientist should gain critical skills in three departments: analytics, programming, and domain knowledge. 
 Venn diagram created by Hugh Conway in 2010 explains very well these three circles: math and statistics, domain knowledge, and hacking skills. 
 
-	 
+<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/blog1.PNG"/>	 
 
 To make correct, business point of view efficient decisions, its very important to have product knowledge. Data scientist should be able to convert business problem, concerns into statistical manner. Data scientist should be able to understand what’s productive data and can be used to make critical and also efficient decisions. Lastly, They should have Data scientist degree which proves their knowledge and ability to make such decisions. 
 
