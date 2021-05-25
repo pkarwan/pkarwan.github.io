@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Pramodini Karwande <br />
+NC State University <br />
+Student of ST-558  <br />
 
-### More Information
+### Contact me <br />
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[pkarwan@ncsu.edu](mailto:pkarwan@ncsu.edu)
