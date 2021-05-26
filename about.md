@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
+![Pramodini Karwande.](src/image/PramodiniKarwande.jpeg){width=50%}
+
 Pramodini Karwande <br />
-NC State University <br />
-Student of ST-558  <br />
+Associate Engineer, Deutsche Bank <br />
+NC State Student <br />
+
+
 
 ### Contact me <br />
 
