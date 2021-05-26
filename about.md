@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/PramodiniKarwande.jpeg" alt="">
+<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/PramodiniKarwande.jpeg" alt="" width="300">
 
 Pramodini Karwande <br />
 Associate Engineer, Deutsche Bank <br />
