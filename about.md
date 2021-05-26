@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![Pramodini Karwande]("https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/PramodiniKarwande.jpeg"){width=50%}
+
+<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/PramodiniKarwande.jpeg" alt="">
 
 Pramodini Karwande <br />
 Associate Engineer, Deutsche Bank <br />
