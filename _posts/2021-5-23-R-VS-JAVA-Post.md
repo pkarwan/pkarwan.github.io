@@ -5,7 +5,7 @@ author : Pramodini Karwande
 ---
 
 
-![](https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/data-science-with-r-for-java-developers.jpg)
+<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/data-science-with-r-for-java-developers.jpg" width="300" height="300"/>
 <br /><br />This is a great topic. I have used many languages earlier including JAVA and now I'm excited to learn R. <br/>
 
 # I would like to discuss about R VS JAVA. 
