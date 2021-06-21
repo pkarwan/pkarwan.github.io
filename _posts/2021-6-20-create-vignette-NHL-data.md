@@ -5,7 +5,7 @@ author : Pramodini Karwande
 ---
 
 
-<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/cut.jpg" width="300" height="300" />
+<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/cut.jpg" width="300" />
 
 Interesting finding in the project : 
 This is the first project which I came across to analyse the data for NHL sport which is recognized worldwide. I got excited to  play around data for creating contingency tables and graphs, use the meaningful functions which tells a story for the data and provides insigts of the hockey sport. I'm newbie for the Hocky sport, so I learned many things while playing around APIs for NHL Data. 
