@@ -14,7 +14,7 @@ So _Bike Sharing System_ plays important role in traffic, environmental and heal
 
 
 # Process For Bike Sharing Analysis :
-1) Setup Repository to use between the team members and provide access
+1) Setup Github Repository to use between the team members and provide access
 
 2) For Data, we applied below process.
 - Analyse the Data
