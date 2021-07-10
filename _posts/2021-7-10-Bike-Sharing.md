@@ -5,7 +5,12 @@ author : Pramodini Karwande
 ---
 
 
+
+
+
 <img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/bikeRent.jpeg" />
+
+
 
 # Bike Sharing Analysis Project
 Project II is the analysis of Bike Sharing Data of Washington DC, for 2011 and 2012 and automate reports per each day of the week using predictive models. 
