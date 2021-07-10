@@ -55,5 +55,8 @@ The difficult part of this project is creating esemble models with the variables
 # what are your big take-aways from this project?
 I feel this project has covered most of the techniques we learned till now. So this is a good approach to get idea to solve real world issues or provide detail analysis on new upcoming technologies. So I don't think anything I can take-away from this project.
 
+
+
 [BikeSharing GitHub Page](https://pkarwan.github.io/Bike-Sharing/)
+
 [GitHub Repo](https://github.com/kardeepak77/BikeSharing)
