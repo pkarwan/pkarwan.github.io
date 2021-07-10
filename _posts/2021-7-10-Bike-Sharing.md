@@ -12,7 +12,7 @@ author : Pramodini Karwande
 
 
 
-# Bike Sharing Analysis Project
+
 Project II is the analysis of Bike Sharing Data of Washington DC, for 2011 and 2012 and automate reports per each day of the week using predictive models. 
 A bike rental business rents out bikes for shorter period of time. Traveller can rent bike from one bike station and return to the other station. It is very useful system in the busy cities as well. 
 So _Bike Sharing System_ plays important role in traffic, environmental and health issues. This is very excited topic to do some analysis of utilization of bikes through bike renting system. 
