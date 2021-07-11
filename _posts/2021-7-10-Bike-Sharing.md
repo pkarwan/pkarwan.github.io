@@ -62,6 +62,6 @@ I feel this project has covered most of the techniques we learned till now. So t
 
 
 
-[BikeSharing Blog](https://pkarwan.github.io/Bike-Sharing/)
+[BikeSharing Github Pages](https://kardeepak77.github.io/BikeSharing/)
 
 [GitHub Repo](https://github.com/kardeepak77/BikeSharing)
