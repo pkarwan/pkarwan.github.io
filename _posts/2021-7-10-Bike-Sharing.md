@@ -41,9 +41,9 @@ So _Bike Sharing System_ plays important role in traffic, environmental and heal
 - Scatter plot of hum with cnt
 - Scatter plot of windspeed with cnt
 
-4) Compute summary statistics for some of the variables like contingency tables. 
+4) Computed summary statistics for some of the variables like contingency tables to analyse data. 
 
-5) Used predicted models like multiple linear regression, random forest and boosted tree
+5) Created predicted models like multiple linear regression, random forest and boosted tree using caret package and cross validation method.
 
 6) Automated and Created analysis reports for each day of the week
 
