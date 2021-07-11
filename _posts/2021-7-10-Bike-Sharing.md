@@ -27,11 +27,12 @@ So _Bike Sharing System_ plays important role in traffic, environmental and heal
 - filter data for weekday 
 - Remove missing values  
 - Convert specific variables as factor
+- Data Split 70% as training and 30% as testing.
 
 3) Visualization of data and analysis based on plots
 - Visualization of data done by creating plots as below.
 - Scatter plot of temp with cnt
-Scatter plot of atemp with cnt
+- Scatter plot of atemp with cnt
 - Boxplot of cnt by season
 - Boxplot of cnt by weathersit
 - BarPlot of cnt by year
@@ -44,7 +45,7 @@ Scatter plot of atemp with cnt
 
 5) Used predicted models like multiple linear regression, random forest and boosted tree
 
-6) Created reports for each day of the week
+6) Automated and Created analysis reports for each day of the week
 
 7) Comparision of the models and declaration of winner.
 
@@ -58,7 +59,7 @@ The difficult part of this project is creating esemble models with the variables
 
 
 # what are your big take-aways from this project?
-I feel this project has covered most of the techniques we learned till now. So this is a good approach to get idea to solve real world issues or provide detail analysis on new upcoming technologies. So I don't think anything I can take-away from this project.
+I feel this project has covered most of the techniques we learned till now. So this is a good approach to get idea to solve real world issues or provide detail analysis on new upcoming technologies. In addition, I learned to work within a team using source control system like github. 
 
 
 
