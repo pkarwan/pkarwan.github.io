@@ -4,7 +4,9 @@ title: Reflection Blog
 author : Pramodini Karwande
 ---
 
-<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/Reflection.PNG" width="400" />
+
+<br />
+<img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/Reflection.PNG" width="400" /><br /><br />
 
 **If anything change in thought from first blog about data scientist is and what they do**  <br />
 Based on my first blog 'Data Science and Statistics', I see the thought I mentioned earlier is the same. There is no change in point of view for data scientist. Earlier was just a thought/knowledge based on the blogs which I read. But now, I can confirm thoese thoughts are correct from my first blog after attempting ST558 Course and attempting data scientist projects covered in the course.<br />
