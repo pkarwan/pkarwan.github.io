@@ -1,3 +1,8 @@
+---
+layout: post
+title: Reflection Blog
+author : Pramodini Karwande
+---
 
 <img src="https://raw.githubusercontent.com/pkarwan/pkarwan.github.io/master/images/Reflection.PNG" width="400" />
 
