@@ -24,7 +24,7 @@ R is developed for statistical computing and graphics and it provides all the st
 
 
 
-<br /> <br />**Things going to do differently in practice now**
+<br /> <br />**Things going to do differently in practice now**<br />
 Since I had ST558 course, I would like to pickup any datasets from kaggle or google and play around it like run some EDAs and get to some conclusions, create reports, make shiny app, get more clarity on docker/containers using R. 
 
 <br />Also I'll look for any opportunities to get hands on experiance on R to work with realtime data as a project work.
